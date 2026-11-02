@@ -2,3 +2,9 @@ https://www.idealista.com/areas/alquiler-viviendas/con-precio-hasta_1100,metros-
 https://www.carbonell.com/es/buscador
 https://www.lainmobiliariabcn.com/es/alquiler/en-barcelona-barcelona/con-1_habitaciones_min,1050_precio_max
 https://www.montehu.com/inmuebles-en-alquiler/
+https://www.fincasgual.com/es/lloguer-venda
+https://www.aproperties.es/search?view=&mod=rental&qt=text&q=&type%5B%5D=14&type%5B%5D=9&type%5B%5D=10&type%5B%5D=20&zone=1&area=&loc=&group=0&dis=&price-from=&price-to=1000&surface-from=&surface-to=&order=
+https://finquesgrau.com/ca/immobiliaria
+https://immollar.com/property-search/?status=alquiler&type%5B%5D=vivienda&location%5B%5D=barcelona-ciudad&max-price=1000
+https://westside.cat/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwestside.cat&empresa=westside.cat&town%5B%5D=&town%5B%5D=Barcelona&type%5B%5D=Duplex&type%5B%5D=Flat&type%5B%5D=Penthouse&price-min=&price-max=1000&ref=
+https://www.ak-bcn.com/es/alquiler-pisos~edificios_singulares-apartamentos~aticos~pisos~edificios_singulares/en-barcelona-barcelona/con-1050_precio_max

@@ -7,6 +7,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: watcher
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -25,4 +29,4 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
           git add state.json
-          git diff --cached --quiet || (git commit -m "estat" && git push)
+          git diff --cached --quiet || (git commit -m "estat" && git pull --rebase -X theirs && git push)

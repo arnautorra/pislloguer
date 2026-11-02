@@ -8,3 +8,7 @@ https://finquesgrau.com/ca/immobiliaria
 https://immollar.com/property-search/?status=alquiler&type%5B%5D=vivienda&location%5B%5D=barcelona-ciudad&max-price=1000
 https://westside.cat/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwestside.cat&empresa=westside.cat&town%5B%5D=&town%5B%5D=Barcelona&type%5B%5D=Duplex&type%5B%5D=Flat&type%5B%5D=Penthouse&price-min=&price-max=1000&ref=
 https://www.ak-bcn.com/es/alquiler-pisos~edificios_singulares-apartamentos~aticos~pisos~edificios_singulares/en-barcelona-barcelona/con-1050_precio_max
+https://inmobiliariaenbarcelona.finquesbou.es/propiedades/busqueda
+https://www.bcinmo.com/index.php?limtipos=2799,2899,3399,3499&areas=3426_id&preciohasta=1050&buscador=1&idio=1
+https://housfy.com/alquiler-inmuebles/barcelona/barcelona?price=,1000
+https://www.montehu.com/inmuebles-en-alquiler/

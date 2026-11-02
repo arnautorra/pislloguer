@@ -12,3 +12,14 @@ https://inmobiliariaenbarcelona.finquesbou.es/propiedades/busqueda
 https://www.bcinmo.com/index.php?limtipos=2799,2899,3399,3499&areas=3426_id&preciohasta=1050&buscador=1&idio=1
 https://housfy.com/alquiler-inmuebles/barcelona/barcelona?price=,1000
 https://www.montehu.com/inmuebles-en-alquiler/
+https://maps.app.goo.gl/qdME7poJ1HJCSvHS7?g_st=iw
+https://www.locabarcelona.com/es/busqueda-inmuebles/?status=alquiler-larga-estancia&max-price=1000
+https://immo-facil.com/ca/cercador-dimmobles
+https://www.assessoriabalista.com/resultados-de-busqueda/?es=1&address=&es_category%5B%5D=&es_category%5B0%5D=218&min_price=&max_price=1000&es_type%5B%5D=&es_type%5B0%5D=293&es_type%5B2%5D=378&es_type%5B4%5D=362&es_type%5B9%5D=295&es_type%5B10%5D=366&es_type%5B12%5D=205&from_bedrooms=&from_bathrooms=&from_half_baths=&min_area=&max_area=&min_lot_size=&max_lot_size=&min_floors=&max_floors=
+https://www.mylife-realestate.com/search-results/?status%5B%5D=alquiler&location%5B%5D=barcelona&max-price=&property_id=
+https://www.veinou.cat/ca/cercador/?filter%5B10583%5D=86248&filter%5B10584%5D=86251
+https://lasose.com/en/properties-to-rent/?type=flat&maxPrice=1000
+https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref=
+https://www.bcnsellers.com/results/?id_tipo_operacion=2&type=18%2C24&dt=15%40%7C%40%40%7C%40&dormitorios_min=&precio_max=1000
+https://www.llachserra.com/propietats/?department=residential-lettings&property_type=87&price_range=price&rent_range=800-1000&address_keyword=&location=220&keyword=
+https://www.homehunter.es/search?o=rental&z=1&a=1&l=&g=&d=&q=&t=1%2C14%2C9%2C10&pf=0&pt=1100&sf=0&st=&ob=published%2Cdesc&ref=filter

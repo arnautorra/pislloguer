@@ -193,5 +193,12 @@
   "https://www.homehunter.es/pisos-en-alquiler-en-eixample-barcelona",
   "https://www.homehunter.es/pisos-en-alquiler-en-madrid",
   "https://www.homehunter.es/propiedades-en-alquiler-en-madrid"
- ]
+ ],
+ "https://tomasgestio.cat/?action=epl_search&post_type=rental&property_status=&property_location=9&property_category=&property_price_from=&property_price_to=1100&property_bedrooms_min=&property_bedrooms_max=&property_bathrooms=&instance_id=1&form_tab=1": [
+  "https://tomasgestio.cat/propiedades/alquiler"
+ ],
+ "https://www.anzizu.es/immobles?transaction-type=2&property-type-groups[]=4&property-type-groups[]=7&property-type-groups[]=6&view=grid": [
+  "https://www.anzizu.es/administracio-de-lloguers"
+ ],
+ "https://www.finquesestrany.com/find/?kind=housing&ordering=&renting=true&vacation=false&renting_cost__gte&renting_cost__lte=1100": []
 }

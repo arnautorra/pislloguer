@@ -23,3 +23,6 @@ https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2F
 https://www.bcnsellers.com/results/?id_tipo_operacion=2&type=18%2C24&dt=15%40%7C%40%40%7C%40&dormitorios_min=&precio_max=1000
 https://www.llachserra.com/propietats/?department=residential-lettings&property_type=87&price_range=price&rent_range=800-1000&address_keyword=&location=220&keyword=
 https://www.homehunter.es/search?o=rental&z=1&a=1&l=&g=&d=&q=&t=1%2C14%2C9%2C10&pf=0&pt=1100&sf=0&st=&ob=published%2Cdesc&ref=filter
+https://tomasgestio.cat/?action=epl_search&post_type=rental&property_status=&property_location=9&property_category=&property_price_from=&property_price_to=1100&property_bedrooms_min=&property_bedrooms_max=&property_bathrooms=&instance_id=1&form_tab=1
+https://www.anzizu.es/immobles?transaction-type=2&property-type-groups[]=4&property-type-groups[]=7&property-type-groups[]=6&view=grid
+https://www.finquesestrany.com/find/?kind=housing&ordering=&renting=true&vacation=false&renting_cost__gte&renting_cost__lte=1100

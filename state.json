@@ -39,7 +39,16 @@
   "https://www.lainmobiliariabcn.com/es/alquiler/en-barcelona-barcelona/con-1_habitaciones_min,1050_precio_max/ref-1372_760",
   "https://www.lainmobiliariabcn.com/servicios/alquiler-garantizado"
  ],
- "https://www.montehu.com/inmuebles-en-alquiler/": [],
+ "https://www.montehu.com/inmuebles-en-alquiler/": [
+  "https://www.montehu.com/?property=parking-en-alquiler-st-pedro-abanto-gran-via-h2085a",
+  "https://www.montehu.com/?property=piso-en-alquiler-c-creu-coberta-mercat-hostafrancs-h2078a",
+  "https://www.montehu.com/?property=piso-en-alquiler-calle-bejar-jto-sants-estacion-h1783a",
+  "https://www.montehu.com/?property=piso-en-alquiler-constitucion-la-bordeta-h1999a",
+  "https://www.montehu.com/?property=piso-en-alquiler-font-de-la-guatlla-montjuich-h1852a",
+  "https://www.montehu.com/?property=piso-en-alquiler-hostafrancs-espanya-industrial-h1750a",
+  "https://www.montehu.com/?property=piso-en-alquiler-plaza-sants-alcolea-h2104a",
+  "https://www.montehu.com/inmuebles-en-alquiler/"
+ ],
  "https://www.agencia.mcconsulting.cat/index.php?limtipos=2999,3399,3499,4399&areas=3426_id&preciohasta=1050&limalquiler=1&av=1&buscador=1": [
   "https://www.agencia.mcconsulting.cat/index.php?limtipos=2999,3399,3499,4399&areas=3426_id&preciohasta=1050&limalquiler=1&av=1&buscador=1"
  ],
@@ -154,7 +163,10 @@
   "https://lasose.com/ca/propietats-de-lloguer/?type=flat&maxPrice=1000",
   "https://lasose.com/es/propiedades-en-alquiler/?type=flat&maxPrice=1000"
  ],
- "https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref=": [],
+ "https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref=": [
+  "https://www.fincaseva.com/alquiler/",
+  "https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref="
+ ],
  "https://www.bcnsellers.com/results/?id_tipo_operacion=2&type=18%2C24&dt=15%40%7C%40%40%7C%40&dormitorios_min=&precio_max=1000": [
   "https://www.bcnsellers.com/aticos-en-alquiler-18-2.html",
   "https://www.bcnsellers.com/aticos-en-alquiler-en-barcelona-18-2-016.html",

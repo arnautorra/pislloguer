@@ -1,24 +1,5 @@
 {
- "https://www.carbonell.com/es/buscador": [
-  "https://www.carbonell.com/es/buscador/en-alquiler",
-  "https://www.carbonell.com/es/buscador/en-alquiler-temporal",
-  "https://www.carbonell.com/es/buscador/en-alquiler-vacacional",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/local/en-alquiler/local-en-alquiler-el-barri-gotic-l-0166-lc?res=4",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/local/en-alquiler/local-en-alquiler-el-fort-pienc-l-0350?res=9",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/local/en-alquiler/local-en-alquiler-el-fort-pienc-l-0351?res=10",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/local/en-alquiler/local-en-alquiler-el-raval-l-0019-lc?res=2",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/local/en-alquiler/local-en-alquiler-lantiga-esquerra-de-leixample-l-0329?res=8",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/local/en-alquiler/local-en-alquiler-sant-gervasi-galvany-l-0310b?res=6",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/local/en-alquiler/local-en-alquiler-sant-pere-santa-caterina-la-ribera-l-2059?res=11",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/local/en-alquiler/local-en-alquiler-sarria-l-0324?res=7",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/oficina/en-alquiler/oficina-en-alquiler-el-barri-gotic-l-0166?res=3",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/oficina/en-alquiler/oficina-en-alquiler-el-raval-l-0019?res=1",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/oficina/en-alquiler/oficina-en-alquiler-sant-gervasi-galvany-l-0310?res=5",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/parking/en-alquiler/parking-en-alquiler-eixample-dret-l-7003?res=13",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/parking/en-alquiler/parking-en-alquiler-lantiga-esquerra-de-leixample-l-7037?res=15",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/parking/en-alquiler/parking-en-alquiler-les-corts-l-7024?res=14",
-  "https://www.carbonell.com/es/inmueble/barcelona-capital/parking/en-alquiler/parking-en-alquiler-sant-antoni-l-3128?res=12"
- ],
+ "https://www.carbonell.com/es/buscador": [],
  "https://www.lainmobiliariabcn.com/es/alquiler/en-barcelona-barcelona/con-1_habitaciones_min,1050_precio_max": [
   "https://www.lainmobiliariabcn.com/es/alquiler",
   "https://www.lainmobiliariabcn.com/es/alquiler-garajes/en-barcelona-barcelona-horta_guinardo",
@@ -39,16 +20,7 @@
   "https://www.lainmobiliariabcn.com/es/alquiler/en-barcelona-barcelona/con-1_habitaciones_min,1050_precio_max/ref-1372_760",
   "https://www.lainmobiliariabcn.com/servicios/alquiler-garantizado"
  ],
- "https://www.montehu.com/inmuebles-en-alquiler/": [
-  "https://www.montehu.com/?property=parking-en-alquiler-st-pedro-abanto-gran-via-h2085a",
-  "https://www.montehu.com/?property=piso-en-alquiler-c-creu-coberta-mercat-hostafrancs-h2078a",
-  "https://www.montehu.com/?property=piso-en-alquiler-calle-bejar-jto-sants-estacion-h1783a",
-  "https://www.montehu.com/?property=piso-en-alquiler-constitucion-la-bordeta-h1999a",
-  "https://www.montehu.com/?property=piso-en-alquiler-font-de-la-guatlla-montjuich-h1852a",
-  "https://www.montehu.com/?property=piso-en-alquiler-hostafrancs-espanya-industrial-h1750a",
-  "https://www.montehu.com/?property=piso-en-alquiler-plaza-sants-alcolea-h2104a",
-  "https://www.montehu.com/inmuebles-en-alquiler/"
- ],
+ "https://www.montehu.com/inmuebles-en-alquiler/": [],
  "https://www.agencia.mcconsulting.cat/index.php?limtipos=2999,3399,3499,4399&areas=3426_id&preciohasta=1050&limalquiler=1&av=1&buscador=1": [
   "https://www.agencia.mcconsulting.cat/index.php?limtipos=2999,3399,3499,4399&areas=3426_id&preciohasta=1050&limalquiler=1&av=1&buscador=1"
  ],
@@ -81,18 +53,7 @@
   "https://www.aretail.es/locales-comerciales-en-alquiler-en-barcelona",
   "https://www.aretail.es/locales-comerciales-en-alquiler-en-madrid"
  ],
- "https://finquesgrau.com/ca/immobiliaria": [
-  "https://finquesgrau.com/ca/immoble/lloguer/garatge/garatge-a-lloguer-a-central-FG_GA42",
-  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-can-baro-FGL1_3",
-  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-eixample-FGL410_L1",
-  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-el-gotic-FGL33_L1",
-  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-el-poble-sec-FG24_E3",
-  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-el-raval-FGL_1212",
-  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-horta-FGL43_6",
-  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-la-sagrada-familia-FG267_L1",
-  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-navas-FG79_L1",
-  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-sant-antoni-FGL_97"
- ],
+ "https://finquesgrau.com/ca/immobiliaria": [],
  "https://immollar.com/property-search/?status=alquiler&type%5B%5D=vivienda&location%5B%5D=barcelona-ciudad&max-price=1000": [
   "https://immollar.com/property-search/?status=alquiler&type%5B%5D=vivienda&location%5B%5D=barcelona-ciudad&max-price=1000"
  ],
@@ -163,10 +124,7 @@
   "https://lasose.com/ca/propietats-de-lloguer/?type=flat&maxPrice=1000",
   "https://lasose.com/es/propiedades-en-alquiler/?type=flat&maxPrice=1000"
  ],
- "https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref=": [
-  "https://www.fincaseva.com/alquiler/",
-  "https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref="
- ],
+ "https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref=": [],
  "https://www.bcnsellers.com/results/?id_tipo_operacion=2&type=18%2C24&dt=15%40%7C%40%40%7C%40&dormitorios_min=&precio_max=1000": [
   "https://www.bcnsellers.com/aticos-en-alquiler-18-2.html",
   "https://www.bcnsellers.com/aticos-en-alquiler-en-barcelona-18-2-016.html",
@@ -192,9 +150,7 @@
   "https://www.homehunter.es/pisos-en-alquiler-en-madrid",
   "https://www.homehunter.es/propiedades-en-alquiler-en-madrid"
  ],
- "https://tomasgestio.cat/?action=epl_search&post_type=rental&property_status=&property_location=9&property_category=&property_price_from=&property_price_to=1100&property_bedrooms_min=&property_bedrooms_max=&property_bathrooms=&instance_id=1&form_tab=1": [
-  "https://tomasgestio.cat/propiedades/alquiler"
- ],
+ "https://tomasgestio.cat/?action=epl_search&post_type=rental&property_status=&property_location=9&property_category=&property_price_from=&property_price_to=1100&property_bedrooms_min=&property_bedrooms_max=&property_bathrooms=&instance_id=1&form_tab=1": [],
  "https://www.anzizu.es/immobles?transaction-type=2&property-type-groups[]=4&property-type-groups[]=7&property-type-groups[]=6&view=grid": [
   "https://www.anzizu.es/administracio-de-lloguers"
  ],

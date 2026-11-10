@@ -197,5 +197,20 @@
  "https://www.anzizu.es/immobles?transaction-type=2&property-type-groups[]=4&property-type-groups[]=7&property-type-groups[]=6&view=grid": [
   "https://www.anzizu.es/administracio-de-lloguers"
  ],
- "https://www.finquesestrany.com/find/?kind=housing&ordering=&renting=true&vacation=false&renting_cost__gte&renting_cost__lte=1100": []
+ "https://www.finquesestrany.com/find/?kind=housing&ordering=&renting=true&vacation=false&renting_cost__gte&renting_cost__lte=1100": [],
+ "https://www.locabarcelona.com/es/busqueda-inmuebles/?status=alquiler-larga-estancia&max-price=1000": [
+  "https://www.locabarcelona.com/ca/cerca-de-propietats/?status=alquiler-larga-estancia&max-price=1000",
+  "https://www.locabarcelona.com/en/property-search/?status=alquiler-larga-estancia&max-price=1000",
+  "https://www.locabarcelona.com/es/agencia-inmobiliaria-barcelona/alquiler-larga-estancia/",
+  "https://www.locabarcelona.com/es/agencia-inmobiliaria-barcelona/alquiler-temporal/",
+  "https://www.locabarcelona.com/es/agencia-inmobiliaria-barcelona/alquiler-turistico/",
+  "https://www.locabarcelona.com/es/alquiler-viviendas/",
+  "https://www.locabarcelona.com/es/busqueda-inmuebles/?status=alquiler-larga-estancia&max-price=1000",
+  "https://www.locabarcelona.com/es/pisos-en-alquiler-por-distrito/",
+  "https://www.locabarcelona.com/es/property-status/alquiler-de-temporada/",
+  "https://www.locabarcelona.com/es/property-status/alquiler-habitaciones/",
+  "https://www.locabarcelona.com/es/property-status/alquiler-larga-estancia/",
+  "https://www.locabarcelona.com/es/property-status/alquiler-turistico/",
+  "https://www.locabarcelona.com/fr/rechercher-logement/?status=alquiler-larga-estancia&max-price=1000"
+ ]
 }

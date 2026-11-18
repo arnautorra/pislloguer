@@ -80,7 +80,17 @@
   "https://www.aretail.es/locales-comerciales-en-alquiler-en-barcelona",
   "https://www.aretail.es/locales-comerciales-en-alquiler-en-madrid"
  ],
- "https://finquesgrau.com/ca/immobiliaria": [],
+ "https://finquesgrau.com/ca/immobiliaria": [
+  "https://finquesgrau.com/ca/immoble/lloguer/garatge/garatge-a-lloguer-a-el-camp-den-grassot-i-gracia-nova-FG105_GA34",
+  "https://finquesgrau.com/ca/immoble/lloguer/garatge/garatge-a-lloguer-a-sant-gervasi-galvany-FG041_GA20",
+  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-can-baro-FGL1_3",
+  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-eixample-FGL410_L1",
+  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-el-poble-sec-FG24_E3",
+  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-sant-gervasi-galvany-FG52_LOC",
+  "https://finquesgrau.com/ca/immoble/lloguer/nau-industrial/nau-industrial-a-lloguer-a-mas-rampinyo-carrerada-FG2729_4_3",
+  "https://finquesgrau.com/ca/immoble/lloguer/nau-industrial/nau-industrial-a-lloguer-a-mas-rampinyo-carrerada-FG27_N4",
+  "https://finquesgrau.com/ca/immoble/lloguer/nau-industrial/nau-industrial-a-lloguer-a-mas-rampinyo-carrerada-FG29_N3"
+ ],
  "https://immollar.com/property-search/?status=alquiler&type%5B%5D=vivienda&location%5B%5D=barcelona-ciudad&max-price=1000": [
   "https://immollar.com/property-search/?status=alquiler&type%5B%5D=vivienda&location%5B%5D=barcelona-ciudad&max-price=1000"
  ],
@@ -179,7 +189,9 @@
   "https://www.homehunter.es/pisos-en-alquiler-en-madrid",
   "https://www.homehunter.es/propiedades-en-alquiler-en-madrid"
  ],
- "https://tomasgestio.cat/?action=epl_search&post_type=rental&property_status=&property_location=9&property_category=&property_price_from=&property_price_to=1100&property_bedrooms_min=&property_bedrooms_max=&property_bathrooms=&instance_id=1&form_tab=1": [],
+ "https://tomasgestio.cat/?action=epl_search&post_type=rental&property_status=&property_location=9&property_category=&property_price_from=&property_price_to=1100&property_bedrooms_min=&property_bedrooms_max=&property_bathrooms=&instance_id=1&form_tab=1": [
+  "https://tomasgestio.cat/propiedades/alquiler"
+ ],
  "https://www.anzizu.es/immobles?transaction-type=2&property-type-groups[]=4&property-type-groups[]=7&property-type-groups[]=6&view=grid": [
   "https://www.anzizu.es/administracio-de-lloguers"
  ],

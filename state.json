@@ -53,7 +53,16 @@
   "https://www.aretail.es/locales-comerciales-en-alquiler-en-barcelona",
   "https://www.aretail.es/locales-comerciales-en-alquiler-en-madrid"
  ],
- "https://finquesgrau.com/ca/immobiliaria": [],
+ "https://finquesgrau.com/ca/immobiliaria": [
+  "https://finquesgrau.com/ca/immoble/lloguer/garatge/garatge-a-lloguer-a-la-nova-esquerra-de-leixample-FG149_GA12_M2",
+  "https://finquesgrau.com/ca/immoble/lloguer/garatge/garatge-a-lloguer-a-sant-gervasi-galvany-FG041_GA20",
+  "https://finquesgrau.com/ca/immoble/lloguer/garatge/garatge-a-lloguer-a-vila-de-gracia-FG09_GA15",
+  "https://finquesgrau.com/ca/immoble/lloguer/garatge/garatge-a-lloguer-a-vila-de-gracia-FG23_GA02",
+  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-can-baro-FGL1_3",
+  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-horta-FGL43_6",
+  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-sant-gervasi-galvany-FG52_LOC",
+  "https://finquesgrau.com/ca/immoble/lloguer/local-comercial/local-comercial-a-lloguer-a-vila-de-gracia-FGL207_209"
+ ],
  "https://immollar.com/property-search/?status=alquiler&type%5B%5D=vivienda&location%5B%5D=barcelona-ciudad&max-price=1000": [
   "https://immollar.com/property-search/?status=alquiler&type%5B%5D=vivienda&location%5B%5D=barcelona-ciudad&max-price=1000"
  ],
@@ -120,7 +129,10 @@
   "https://lasose.com/ca/propietats-de-lloguer/?type=flat&maxPrice=1000",
   "https://lasose.com/es/propiedades-en-alquiler/?type=flat&maxPrice=1000"
  ],
- "https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref=": [],
+ "https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref=": [
+  "https://www.fincaseva.com/alquiler/",
+  "https://www.fincaseva.com/alquileres/?search=&zonas=&host_dominio=https%3A%2F%2Fwww.fincaseva.com&empresa=fincaseva.com&type%5B%5D=casas+o+chalets&type%5B%5D=locales&type%5B%5D=pisos&town%5B%5D=&town%5B%5D=Barcelona&zona%5B%5D=&price-min=&price-max=1050&ref="
+ ],
  "https://www.bcnsellers.com/results/?id_tipo_operacion=2&type=18%2C24&dt=15%40%7C%40%40%7C%40&dormitorios_min=&precio_max=1000": [
   "https://www.bcnsellers.com/aticos-en-alquiler-18-2.html",
   "https://www.bcnsellers.com/aticos-en-alquiler-en-barcelona-18-2-016.html",
